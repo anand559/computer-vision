@@ -1,4 +1,3 @@
- computer-vision/hybrid-images
-
+ Computer vision/Hybrid images
 
 Differentiate between hybrid images and to identify individual images in this hybrid images.
